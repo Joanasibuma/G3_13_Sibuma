@@ -23,5 +23,8 @@ body{
 }
 .video video{
     height:230px;
-    width: 340px;
+    width: 345px;
 } 
+.time p{
+    text-align:center;
+}
