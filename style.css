@@ -16,4 +16,12 @@ body{
     width: 200px;
     margin-left: 70px;
     border-radius:20px;
+    padding-bottom:10px;
 }
+.music audio{
+    width: 345px;
+}
+.video video{
+    height:230px;
+    width: 340px;
+} 
